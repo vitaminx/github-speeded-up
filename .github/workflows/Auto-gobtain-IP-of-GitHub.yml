@@ -11,7 +11,7 @@ on:
   #    - master
   schedule:
     - cron: '12 */3 * * *'
-  #关注:
+  关注:
     types: [started]
    
 jobs:
